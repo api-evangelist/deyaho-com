@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Deyaho provides AI-powered voice and text agents for businesses, operating 24/7 in 30 languages. Their solutions automate customer service, sales, and management across various sectors, offering multilingual support and integration capabilities for enterprises seeking intelligent automation.
+Deyaho offers AI‑powered voice and text agents that operate 24/7 in over 30 languages, enabling businesses to automate customer service, sales, and management tasks. Their platform integrates with existing systems, providing multilingual support, analytics, and customizable workflows for enterprises across diverse sectors, helping improve efficiency and customer experience.
 
 **Areas:** AI · Voice · Text · Multilingual · Automation · Company
 
@@ -113,31 +113,31 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Deyaho Com Domain Security](https://apis.io/security/deyaho-com/deyaho-com-domain-security/)
+- [Deyaho Domain Security](https://apis.io/security/deyaho-com/deyaho-com-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://deyaho.com/)
-- [Documentation](https://deyaho.com/en/)
+- [Documentation](https://app.deyaho.com/api-docs)
 - [Pricing](https://deyaho.com/en/pricing)
 - [Blog](https://deyaho.com/en/blog)
 
 ## API Evangelist rating
 
-**Kin Score 36.3** — thin · rubric 0.27.0 · scored 2026-11-05
+**Kin Score 28.2** — thin · rubric 0.27.0 · scored 2026-11-11
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 55.0 |
-| Contract governance | 79.1 |
+| Discoverability | 56.7 |
+| Contract quality | 35.0 |
+| Contract governance | 35.6 |
 | Operational transparency | 7.9 |
-| Developer ergonomics | 11.9 |
+| Developer ergonomics | 18.3 |
 | Access clarity | 23.7 |
 
-**Agent readiness 19.9** — agent-aware
+**Agent readiness 40.1** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -145,26 +145,26 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
-| Auth Clarity | — |
+| Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
-| Event Surface Described | unknown |
-| Agent Skills | — |
+| Event Surface Described | yes |
+| Agent Skills | unknown |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/deyaho-com/](https://apis.io/providers/deyaho-com/).
 
